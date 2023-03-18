@@ -1,1 +1,2 @@
-# IBM-applied-ds-capstone
+# SpaceX
+# SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. The objective is to evaluate the viability of the new company Space Y to compete with Space X, if we can determine if the first stage will land, we can determine the cost of a launch.
